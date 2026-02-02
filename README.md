@@ -1,2 +1,0 @@
-# Telegrambo
-Send photo 
